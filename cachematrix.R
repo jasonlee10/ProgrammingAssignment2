@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## A pair of functions that can store previously calculated inverse matrices
+## as a state and return the cached inverse rather than calculate each time
 
 ## Creates a matrix object that can cache its inverse
 
